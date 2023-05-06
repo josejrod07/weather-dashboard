@@ -1,0 +1,20 @@
+:root {
+    --bgnavy: navy;
+    --bgoffwhite: antiquewhite;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: var(--bgnavy);
+    color: var(--bgoffwhite);
+}
+
+.aside {
+    display: inline-block;
+}
+
+.form-input {
+    position: relative;;
+}
